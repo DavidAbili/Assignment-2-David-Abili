@@ -1,5 +1,13 @@
 import java.util.Scanner;
-
+/*Class: CMSC203
+ * Instructor: Dr.Alexander
+ * Due 9/30/21
+ * Platform compiler:
+ * I pledge that I have completed the programming assignment independently
+ * I have not copied the code from a student or any source
+ * I have not given my code to any student
+ * David Abili
+ */
 public class RandomNumberGuesser {
 
 	public static void main(String[] args) {
